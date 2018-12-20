@@ -1,0 +1,51 @@
+body
+{
+	
+}
+.logo img
+{
+	width: 16%;
+	height: 250px;
+	opacity: 0.5;
+	position: absolute;
+	float: left;
+	margin-left: 42%;
+	z-index: 10;
+	margin-top: 10%;
+}
+
+.logo img:hover
+{
+	cursor: pointer;
+	opacity: 0.8;
+	
+}
+
+nav
+{
+	width: 30%;
+	height: 200px;
+	background: rgba(0,0,0,0.1);
+	z-index: 101;
+	position: absolute;
+	float: left;
+	margin-left: 35%;
+	margin-top: 30%;
+
+}
+
+nav h1
+{
+	text-align: center;
+	font-size: 2em;
+	color:#454343;
+}
+
+nav p
+{
+	text-align: center;
+	font-size: 1em;
+	color: #FFFFFF;
+}
+
+
